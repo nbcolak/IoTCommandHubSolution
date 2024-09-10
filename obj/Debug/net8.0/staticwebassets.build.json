@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "agUgPlEvM9wp960eQtC7YGqq9a6Tn0sasprXi7MxO4c=",
+  "Source": "IoTCommandHub",
+  "BasePath": "_content/IoTCommandHub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
