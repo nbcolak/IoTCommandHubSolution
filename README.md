@@ -2,6 +2,8 @@
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-8-blue)
 ![MQTT](https://img.shields.io/badge/MQTT-enabled-green)
 ![RESTful API](https://img.shields.io/badge/RESTful-API-orange)
+![Command Pattern](https://img.shields.io/badge/Design%20Pattern-Command-yellow)  
+
 
 # IoT Command Hub
 
